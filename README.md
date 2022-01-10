@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hozzpy
-- 👀 I’m interested in ...
+- 👀 my social media
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Mr.pozzy
+- 📫 contact: Mr.pozzy
 
 <!---
 Hozzpy/Hozzpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
